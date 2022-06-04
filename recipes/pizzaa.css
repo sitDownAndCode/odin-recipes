@@ -1,0 +1,43 @@
+a {
+  font-size: 30px;
+  text-decoration: none;
+  color: brown;
+}
+
+body {
+  background-color: rgb(180, 255, 230);
+}
+
+h1 {
+  text-align: center;
+  color: rgb(132, 70, 139);
+}
+
+div#images {
+  text-align: center;
+}
+
+div.linked {
+  text-align: right;
+}
+
+h2 {
+  font-weight: 400;
+  text-align: center;
+  color: chocolate;
+}
+
+ol,
+ul {
+  text-align: center;
+  color: rgb(50, 87, 156);
+}
+
+.descripto {
+  text-align: center;
+}
+
+div,
+p {
+  color: rgb(50, 87, 156);
+}

@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(231, 231, 181);
+}
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  color: darkslateblue;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#listo {
+  font-weight: 600;
+  color: brown;
+  text-align: auto;
+  font-family: "Lucida Sans", "Kristen ITC", serif;
+  font-size: 28px;
+}
+
+a {
+  color: inherit;
+  text-decoration-line: none;
+}
+
+.links {
+  padding: 20px 20px 20px 20px;
+}
+
+div {
+  text-align: center;
+}
